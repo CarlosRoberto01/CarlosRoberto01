@@ -1,12 +1,20 @@
-### Hi ! I am Carlos Roberto 👋👋
+### Hi ! I am Carlos Roberto 👋🤝
+<br/>
+🥳🎂 Since 1994 
+<br/><br/>
+🏖️🌴 I'm from Fortaleza - Ceará 
+<br/><br/>
+🤓📚 I'm majoring in systems analysis and development at Estácio 
+<br/><br/>
+🖥️🧠 I study web development at Alura 
+<br/><br/>
 
-🏖️🏖️ I'm from Fortaleza - Ceará 
-
+### Here are my social media <br/><br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-roberto-alves-bezerra-luna-125288224/)<br/>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carloos.roberto/?hl=pt-br)<br/>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carloos.roberto/?hl=pt-br)<br/><br/>
 
-![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosRoberto01&show_icons=true&theme=dracula)<br/>
+![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosRoberto01&show_icons=true&theme=dracula)<br/><br/>
 
 
 
