@@ -32,8 +32,8 @@
     <img aling="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </div><br/><br/>
 
-
-Sou apaixonado por tecnologia e por atingir a vida das pessoas de forma positiva atraves da programação! 
+    
+Minha paixão pela tecnologia é impulsionada pelo desejo sincero de fazer a diferença na vida das pessoas através da programação, buscando sempre um impacto positivo! 
 
 
 
