@@ -33,7 +33,7 @@
 </div><br/><br/>
 
     
-"My passion for technology is driven by a genuine desire to make a positive impact on people's lives through programming, constantly seeking to make a difference!"
+🤔💭 "My passion for technology is driven by a genuine desire to make a positive impact on people's lives through programming, constantly seeking to make a difference!" 
 
 
 
