@@ -9,7 +9,7 @@
 🖥️🧠 I study web development at Alura 
 <br/><br/>
 
-## &nbsp;📱 Here are my social media  <br/>
+## &nbsp;📱 Social Media  <br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-roberto-alves-bezerra-luna-125288224/)<br/>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carloos.roberto/?hl=pt-br)<br/><br/>
