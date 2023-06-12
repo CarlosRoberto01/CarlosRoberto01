@@ -33,7 +33,7 @@
 </div><br/><br/>
 
     
-Minha paixão pela tecnologia é impulsionada pelo desejo sincero de fazer a diferença na vida das pessoas através da programação, buscando sempre um impacto positivo! 
+"My passion for technology is driven by a genuine desire to make a positive impact on people's lives through programming, constantly seeking to make a difference!"
 
 
 
