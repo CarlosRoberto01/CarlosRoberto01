@@ -34,9 +34,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRoberto01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/>
 
-    
-## &nbsp;🤔💭 
-"My passion for technology is driven by a genuine desire to make a positive impact on people's lives through programming, constantly seeking to make a difference!" 
 
 
 
