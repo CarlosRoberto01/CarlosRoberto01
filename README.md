@@ -1,3 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=34B3F1&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=34B3F1&size=30&center=true&vCenter=true&width=1000&lines=Hi!+I+am+Carlos+Roberto+👋+🤝;)](https://git.io/typing-svg)
 ## &nbsp;Hi ! I am Carlos Roberto 👋🤝
 <br/>
 🥳🎂 Since 1994 
@@ -34,6 +37,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRoberto01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/>
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=34B3F1&height=120&section=footer"/>
 
 
