@@ -24,15 +24,17 @@
     <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-    <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
+    <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <br/><br/>
     <img alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
     <img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
     <img alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-</div><br/><br/>
+</div><br/>
 
 ##  &nbsp;📈 GitHub Analytics  <br/>
 <div align="center">
-    <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api?username=CarlosRoberto01&show_icons=true&theme=dracula" alt="Carlos GitHub stats" />
+    <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api?username=CarlosRoberto01&show_icons=true&theme=dark" alt="Carlos GitHub stats" />
     <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRoberto01&layout=compact" />
 </div>
 
