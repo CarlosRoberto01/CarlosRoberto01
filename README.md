@@ -35,7 +35,7 @@
     <img alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </div><br/>
 
-<h2>📈 GitHub Analytics </h2> <br/>
+<h2>📈 GitHub Analytics </h2> 
 
 <div align="center">
     <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api?username=CarlosRoberto01&show_icons=true&theme=dark" alt="Carlos GitHub stats" />
