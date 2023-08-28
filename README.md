@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1FCEF7&height=100&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=35&duration=3500&pause=1000&color=ffffff&background=FFFFFF00&center=true&vCenter=true&width=1000&height=30&lines=Hi!+I+am+Carlos+Roberto+👋+🤝+;How+are+you+today+%3F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=35&duration=3500&pause=1000&color=ffffff&background=FFFFFF00&center=true&vCenter=true&width=1000&height=30&lines=Hi+!+I+am+Carlos+Roberto+👋+🤝+;How+are+you+today+%3F)](https://git.io/typing-svg)
 <br/><br/>
 
 🥳🎂 Since 06/13/1994 
