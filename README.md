@@ -38,7 +38,7 @@
 <h2>📈 GitHub Analytics </h2> 
 
 <div align="center">
-    <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api?username=CarlosRoberto01&show_icons=true&theme=dark" alt="Carlos GitHub stats" />
+    <img width="45%" height="205px" src="https://github-readme-stats.vercel.app/api?username=CarlosRoberto01&show_icons=true&theme=dark" alt="Carlos GitHub stats" />
     <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRoberto01&layout=compact" />
 </div>
 
