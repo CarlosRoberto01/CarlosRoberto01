@@ -13,6 +13,11 @@
     🖥️🧠 I study web development at Alura 
     <br/><br/>
 </h3>
+
+<p align="center">
+    <img src="https://media.tenor.com/LFQN6bh5iw8AAAAd/dog-techie.gif" width="250">
+    <img src="https://media.tenor.com/dPTC99hWMYgAAAAd/dog-sleepy.gif" width="250">
+</p>
     
 <h2> 📱Social Media </h2> 
 
