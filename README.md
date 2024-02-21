@@ -10,7 +10,7 @@
     <br/><br/>
     🤓📚 I'm majoring in systems analysis and development at Estácio 
     <br/><br/>
-    🖥️🧠 I study web development at Alura 
+    🖥️🧠 I study web development at Alura and Udemy 
     <br/><br/>
 </h3>
 
